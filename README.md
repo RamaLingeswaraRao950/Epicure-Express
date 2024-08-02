@@ -12,7 +12,7 @@ Epicure Express offers a wide variety of food categories to cater to diverse tas
 - **Tiffins**
 
 ## Tech Stack
-- **Frontend :** Vite.js, React.js, CSS3, HTML5
+- **Frontend :** Vite.js, React.js, Javascript, CSS3, HTML5
 - **Backend :** Node.js, Express.js, MongoDB
 - **Authentication :** JWT, OAuth
 
