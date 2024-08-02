@@ -5,29 +5,15 @@
 ## Tech Stack
 - **Frontend:--** 
 
-   Vite.js
-  
-  React.js
-  
-  CSS3
-  
-  Javascript
-  
-  HTML5
+   Vite.js, React.js, Javascript, CSS3, HTML5.
   
 - **Backend:--**
 
-  Node.js
-  
-  Express.js
-  
-  MongoDB
+  Node.js, Express.js, MongoDB.
   
 - **Authentication:--**
 
-  JWT
-  
-  OAuth
+  JWT, OAuth
 
 ## Installation
 To set up the project locally, follow these steps:--
