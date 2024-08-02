@@ -3,7 +3,7 @@
 ***Epicure Express*** is a modern, user-friendly food delivery platform designed to enhance the dining experience for users. It provides a seamless interface to browse, order, and manage food deliveries from top restaurants. The platform offers a variety of food categories, ensuring there's something for everyone.
 
 ## Food Categories
-Epicure Express offers a wide variety of food categories to cater to diverse tastes:
+Epicure Express offers a wide variety of food categories to cater to diverse tastes:--
 - **All**
 - **North-Indian**
 - **South-Indian**
@@ -18,11 +18,10 @@ Epicure Express offers a wide variety of food categories to cater to diverse tas
 - **Authentication:** JWT, OAuth
 
 ## Installation
-
-1. **Clone the repository:**   https://github.com/RamaLingeswaraRao950/Epicure-Express.git   and   cd epicure-express
+1. **Clone the repository:**   https://github.com/RamaLingeswaraRao950/Epicure-Express.git     and     cd epicure-express
 
 2. **Install dependencies:**   npm install
  
 3. **Run the development server:**   npm run dev
    
-4. **Access the application:**   Open your browser and navigate to `http://localhost:3000`.
+4. **Access the application:**   Open your browser and navigate to `http://localhost:`.
